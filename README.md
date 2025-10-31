@@ -81,26 +81,5 @@ Improve accuracy using Deep Learning
 👩‍💻 Developed By
 
 Sai Pooja Chinthakindi
-Final Year B.Tech (CSE)
-Sree Chaitanya College of Engineering, Karimnagar
-
-📄 License
-
-Open source under the MIT License
-
-📷 (Optional)
-
-You can add a screenshot section if you have UI images:
-
-## 🖼️ Screenshot
-![Chatbot Screenshot](screenshot.png)
-
-✅ To Add in GitHub
-
-Open your project folder
-
-Create a new file → name it README.md
-
-Paste the above content
-
-Save → Commit → Push to GitHub
+Final Year B.Tech (CSD)
+Sree Chaitanya College of Engineering, Karimnaga
