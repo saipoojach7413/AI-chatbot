@@ -46,11 +46,6 @@ pip install flask pandas numpy scikit-learn
 
 🚀 How to Run
 
-Clone this repository
-
-git clone https://github.com/yourusername/ai-chatbot-customer-service.git
-
-
 Open the folder in your code editor
 
 Run the Flask file
