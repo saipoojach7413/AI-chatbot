@@ -73,7 +73,7 @@ Use NLP for smarter replies
 
 Improve accuracy using Deep Learning
 <img width="1000" height="575" alt="image" src="https://github.com/user-attachments/assets/d6108680-ae5b-4ab7-8f32-33c71b26b15b" />
-<img width="1000" height="575" alt="image" src="https://github.com/user-attachments/assets/b9261001-4c5b-4936-9e42-696cc6ad5dee" />
+
 
 
 👩‍💻 Developed By
